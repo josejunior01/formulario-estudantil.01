@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background-image: url(https://img.freepik.com/vetores-gratis/instagram-fundo-em-cores-gradientes_23-2147821882.jpg );
+    background-repeat: no-repeat;
+    background-size: 150%;
+
+
+}
+
+.h1 {
+    color: black;
+}
+
+.hr {
+    width: 300px;
+    height: px;
+    color: rgb(255, 255, 255);
+}
+
+form {
+    width: 350px;
+    height: 380px;
+    background-color: rgba(27, 38, 38, 0.336);
+    padding: 15px;
+    margin: 100px auto;
+    box-shadow: 5px 10px 15px rgb(0, 0, 0);
+    color: white;
+    border-radius: 35px;
+}
+
+.ddd {
+    border-radius: 111px;
+    background-color: rgba(185, 126, 98, 0.5);
+}
+
+.genero {
+    border-radius: 111px;
+    background-color: rgba(180, 117, 88, 0.493);
+}
+
+form input {
+    border-radius: 11px;
+}
+
+
+
+
+
+
+.btn input {
+    background-color: rgba(180, 117, 88, 0);
+    text-align: center;
+    border-radius: 98px;
+}
+
+.btn input {
+
+
+    cursor: pointer;
+}
+
+.btn input:hover {
+
+    transition: 0.5s;
+    cursor: pointer;
+    background-color: rgb(255, 153, 0);
+}
