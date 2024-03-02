@@ -1,45 +1,72 @@
 body {
     text-align: center;
+     /* text-aling ele alinha o texto ao centro da pagina web */
     background-image: url(https://img.freepik.com/vetores-gratis/instagram-fundo-em-cores-gradientes_23-2147821882.jpg );
+    /* backgraund-image:url cola uma imagen de fundo na pagina web pelo enderço do link */
     background-repeat: no-repeat;
-    background-size: 150%;
+    /* backgraund:no-repaet na deixa repetir a image do  background-image: */
+    background-size: 100%;
+    /* background-size ele da o tamanho da image que o background-image traz para a paginha web */
 
 
 }
 
 .h1 {
+    text-align: center;
+    /* text-aling ele alinha o texto ao centro da pagina web */
     color: black;
+    /* color ele da a cor da letra dentro da pagina web */
+    font-family: 'Gill Sans MT',' Calibri', 'Trebuchet MS', sans-serif;
+    /* font-family ele muda o farmato da letra que ele esta associado */
 }
 
 .hr {
     width: 300px;
+    /* widht ele da a largura a onde eu Quizer menciona ele (width -> largura) */
     height: px;
+    /* heigth ele da a altura aqui Que eu quero mencionar ele (heigth -> */
     color: rgb(255, 255, 255);
+     /* color ele da a cor da letra dentro da pagina web */
 }
+
 
 form {
     width: 350px;
-    height: 380px;
+    /* widht ele da a largura a onde eu Quizer menciona ele (width -> largura) */
+    height: 440px;
+     /* heigth ele da a altura aqui Que eu quero mencionar ele (heigth -> */
     background-color: rgba(27, 38, 38, 0.336);
+    /* background-color da a cor de fundo onde eu quero mencionar a cor */
     padding: 15px;
+    /* pedding:15% ele preenche */
     margin: 100px auto;
+
     box-shadow: 5px 10px 15px rgb(0, 0, 0);
+    /* box-shadow  ele faz a sonbra da caixa */
     color: white;
+
     border-radius: 35px;
+    /* borde-radius ele faz com que a borda da caixa ganhe uma certa curva dependendo do tamnho do seu px */
+    padding-left: 20px;
 }
 
 .ddd {
     border-radius: 111px;
+    /* borde-radius ele faz com que a borda da caixa ganhe uma certa curva dependendo do tamnho do seu px */
     background-color: rgba(185, 126, 98, 0.5);
+     /* background-color da a cor de fundo onde eu quero mencionar a cor */
 }
 
 .genero {
     border-radius: 111px;
+    /* borde-radius ele faz com que a borda da caixa ganhe uma certa curva dependendo do tamnho do seu px */
     background-color: rgba(180, 117, 88, 0.493);
+     /* background-color da a cor de fundo onde eu quero mencionar a cor */
 }
 
 form input {
     border-radius: 11px;
+    /* borde-radius ele faz com que a borda da caixa ganhe uma certa curva dependendo do tamnho do seu px */
 }
 
 
@@ -49,14 +76,18 @@ form input {
 
 .btn input {
     background-color: rgba(180, 117, 88, 0);
+    /* background-color da a cor de fundo onde eu quero mencionar a cor */
     text-align: center;
+    /* text-aling ele alinha o texto ao centro da pagina web */
     border-radius: 98px;
+     /* borde-radius ele faz com que a borda da caixa ganhe uma certa curva dependendo do tamnho do seu px */
 }
 
 .btn input {
 
 
     cursor: pointer;
+    
 }
 
 .btn input:hover {
