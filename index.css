@@ -4,7 +4,7 @@ background-image: url(https://super.abril.com.br/wp-content/uploads/2005/11/esco
  /* backgraund-image:url cola uma imagen de fundo na pagina web pelo enderço do link */
  background-repeat: no-repeat;
  /* backgraund:no-repaet na deixa repetir a image do  background-image: */
- background-size: 111%;
+ background-size: auto 111%;
    /* background-size ele da o tamanho da image que o background-image traz para a paginha web */
 }
 
@@ -46,6 +46,9 @@ hr{
      /* borda para minha caixa input */
      /* box-shadow: 5px 6px 15px rgb(0, 0, 0);
     box-shadow  ele faz a sonbra da caixa */
+/* display: block;
+margin: 0% auto; centraliza */
+
     }
    .btnlogar input {
     /* cadastro input ele estiliza o button logar */
@@ -71,7 +74,7 @@ hr{
 
     .btnpagina button{
         /* btnpagina estiliza o button pagona anterio */
-        background-color: rgba(9, 243, 9, 0.089);
+        background-color: rgba(245, 8, 8, 0.801);
       /* background-color deu uma cor de fundo para meu button pagina*/
         border-radius: 30px;
          /* borda para minha caixa pagina */

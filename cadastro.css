@@ -5,7 +5,7 @@ body {
     /* backgraund-image:url cola uma imagen de fundo na pagina web pelo enderço do link */
     background-repeat: no-repeat;
     /* backgraund:no-repaet na deixa repetir a image do  background-image: */
-    background-size: 100%;
+    background-size: 100% ;
     /* background-size ele da o tamanho da image que o background-image traz para a paginha web */
 
 
