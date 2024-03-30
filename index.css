@@ -1,3 +1,4 @@
+
 body{
     /* body ele esta estilizando a pagina web  */
 background-image: url(https://super.abril.com.br/wp-content/uploads/2005/11/escola-2.png?w=1024&resize=1200,800);
@@ -6,6 +7,8 @@ background-image: url(https://super.abril.com.br/wp-content/uploads/2005/11/esco
  /* backgraund:no-repaet na deixa repetir a image do  background-image: */
  background-size: auto 111%;
    /* background-size ele da o tamanho da image que o background-image traz para a paginha web */
+   padding: 100px;
+   margin: 100px;
 }
 
 h1{
